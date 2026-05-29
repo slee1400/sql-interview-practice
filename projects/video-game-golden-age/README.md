@@ -1,4 +1,4 @@
-# Video Game Golden Age Analysis
+# Video Game Golden Age Analysis - DATA CAMP 
 
 This SQL project analyzes video game sales and review data to explore whether there was a "golden age" of video games.
 
