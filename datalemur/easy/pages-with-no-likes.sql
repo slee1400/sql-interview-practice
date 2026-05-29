@@ -30,7 +30,7 @@ ORDER BY page_id ASC;
 -- In this problem, that is unnecessary because a like should belong to an existing page through page_id.
 -- Since the question only asks for pages with no likes, LEFT JOIN is more direct and appropriate.
 
-Alternative solution using EXCEPT:
+-- Alternative solution using EXCEPT:
 -- We can also solve this by selecting all page IDs from pages and removing
 -- the page IDs that appear in page_likes.
 
